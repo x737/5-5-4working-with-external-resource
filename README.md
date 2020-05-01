@@ -15,3 +15,7 @@ the combination of JSON data and the DOM allows us to present our data to our us
 + add a forEach() loop for data.results and then display the name by add name property to item
 + use += instead of =, so that the result wont be overwrited
 + var el = document.getElementByID("data"), el.innerHTML = "" to clear up the screen every time button is clicked
+
+## Tabular Data - Part one (main2.js, main3.js)
+
+## Pagination 
